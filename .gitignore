@@ -1,0 +1,31 @@
+# Environment / secrets
+.env
+.env.*
+*.env
+backend/config.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# Databases & logs
+*.db
+*.sqlite3
+*.log
+*.lock
+
+# Node
+node_modules/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

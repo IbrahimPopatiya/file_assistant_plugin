@@ -1,0 +1,7 @@
+watchdog
+fastapi
+uvicorn
+pywinauto
+pywin32
+openai
+# sqlite3
